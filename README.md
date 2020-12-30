@@ -1,4 +1,4 @@
-#Heroes of Pymoli
+# Heroes of Pymoli
 
 Task of analyzing the data for a fantasy game Heroes of Pymoli.
 
